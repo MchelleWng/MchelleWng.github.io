@@ -1,9 +1,10 @@
 ---
 layout: archive
-permalink: /data-cleaning/
-title: "Data Cleaning"
+permalink: /data-science/
+title: "Data Science Posts by Michelle Wong"
 author_profile: true
-
+header:
+  image: "/images/wave.png"
 ---
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
