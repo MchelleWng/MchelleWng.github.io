@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Michelle Wong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Smith School of Business Grad '19"
   location         : "Toronto, Ontario"
   email            :
