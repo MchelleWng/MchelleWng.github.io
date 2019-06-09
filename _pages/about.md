@@ -7,7 +7,7 @@ I am a recent graduate from the Smith School of Business at Queen's University. 
 
 <h2> Noteable Coursework </h2>
 <ul>
-  <li> Data Science for Business (Jypiter Python)</li>
+  <li> Data Science for Business (Jupyter Python)</li>
   <li> Managing Data and Business Intelligence (Weka, SQL)</li>
   <li> Marketing Analytics (R)</li>
   <li> Fundamentals of Web Development (HTML, CSS, JavaScript, SQL)</li>
